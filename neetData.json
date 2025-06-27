@@ -3,7 +3,7 @@
     "year": 2024,
     "yearPdf": {
       "name": "NEET 2024 - Full Year",
-      "pdfUrl": "https://mesanjeetk.github.io/neetx-2025/physics/ch1.pdf"
+      "pdfUrl": "https://mesanjeetk.github.io/neetx-2024/physics/ch1.pdf"
     },
     "subjects": [
       {
@@ -12,18 +12,18 @@
         "color": "#ef4444",
         "allChaptersPdf": {
           "name": "Complete Physics",
-          "pdfUrl": "https://mesanjeetk.github.io/neetx-2025/physics/ch1.pdf"
+          "pdfUrl": "https://mesanjeetk.github.io/neetx-2024/physics/ch1.pdf"
         },
         "chapters": [
           {
             "id": "mechanics",
             "name": "Mechanics",
-            "pdfUrl": "https://mesanjeetk.github.io/neetx-2025/physics/ch1.pdf"
+            "pdfUrl": "https://mesanjeetk.github.io/neetx-2024/physics/ch1.pdf"
           },
           {
             "id": "thermodynamics",
             "name": "Thermodynamics",
-            "pdfUrl": "https://mesanjeetk.github.io/neetx-2025/physics/ch1.pdf"
+            "pdfUrl": "https://mesanjeetk.github.io/neetx-2024/physics/ch1.pdf"
           }
         ]
       },
@@ -33,13 +33,13 @@
         "color": "#10b981",
         "allChaptersPdf": {
           "name": "Complete Chemistry",
-          "pdfUrl": "https://mesanjeetk.github.io/neetx-2025/physics/ch1.pdf"
+          "pdfUrl": "https://mesanjeetk.github.io/neetx-2024/physics/ch1.pdf"
         },
         "chapters": [
           {
             "id": "organic",
             "name": "Organic Chemistry",
-            "pdfUrl": "https://mesanjeetk.github.io/neetx-2025/physics/ch1.pdf"
+            "pdfUrl": "https://mesanjeetk.github.io/neetx-2024/physics/ch1.pdf"
           }
         ]
       }
