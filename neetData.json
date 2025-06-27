@@ -1,0 +1,48 @@
+[
+  {
+    "year": 2024,
+    "yearPdf": {
+      "name": "NEET 2024 - Full Year",
+      "pdfUrl": "https://yourusername.github.io/neetx-2024/neet-2024-full.pdf"
+    },
+    "subjects": [
+      {
+        "id": "physics",
+        "name": "Physics",
+        "color": "#ef4444",
+        "allChaptersPdf": {
+          "name": "Complete Physics",
+          "pdfUrl": "https://yourusername.github.io/neetx-2024/physics/all.pdf"
+        },
+        "chapters": [
+          {
+            "id": "mechanics",
+            "name": "Mechanics",
+            "pdfUrl": "https://yourusername.github.io/neetx-2024/physics/mechanics.pdf"
+          },
+          {
+            "id": "thermodynamics",
+            "name": "Thermodynamics",
+            "pdfUrl": "https://yourusername.github.io/neetx-2024/physics/thermodynamics.pdf"
+          }
+        ]
+      },
+      {
+        "id": "chemistry",
+        "name": "Chemistry",
+        "color": "#10b981",
+        "allChaptersPdf": {
+          "name": "Complete Chemistry",
+          "pdfUrl": "https://yourusername.github.io/neetx-2024/chemistry/all.pdf"
+        },
+        "chapters": [
+          {
+            "id": "organic",
+            "name": "Organic Chemistry",
+            "pdfUrl": "https://yourusername.github.io/neetx-2024/chemistry/organic.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]
